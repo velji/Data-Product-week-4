@@ -46,3 +46,11 @@ summary(cars)
 plot(pressure)
 ```
 
+Shiny files
+========================================================
+
+The application is build using Shiny package and the source code is in 2 files:
+- `ui.R`
+- `server.R`
+
+Both files can be found here: [GitHub repo](https://github.com/avkch/Course-Project-Shiny-Application-and-Reproducible-Pitch)
